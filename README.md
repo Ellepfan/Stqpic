@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/Ellepfan/Stepik/blob/main/разное/codeAndroid.gif" width="600"/>
+  <img src="https://github.com/Ellepfan/Stqpic/blob/main/разное/i.png" width="600"/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/Ellepfan/Stepik/blob/main/разное/codeAndroid.gif" width="600"/>
+  <img src="https://github.com/Ellepfan/Stqpic/blob/main/разное/codeAndroid.gif" width="600"/>
 </div>
 
 
